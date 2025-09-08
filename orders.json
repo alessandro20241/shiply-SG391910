@@ -1,12 +1,12 @@
 {
-  "SG9391713": {
+  "SG391910": {
     "status": "Warten auf Zahlung",
     "statusClass": "pending",
-    "sender": "Adrian Kraus, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
-    "receiver": "Norbertus Van der Steen, Rembrandtlaan 21, 5121 WK Rijen, Niederlande",
-    "price": "16.000 €",
-    "description": "Hersteller: BMW<br>Typ: R 1250 GS Adventure <br>Fahrgestelnummer: WB10J5307LZF90259<br>Erstzulassung: 10/2020<br>KM laut Vorbesitzer: 8.239 km <br>Leistung: 100 kW (136 PS) <br>Hubraum: 1254 cm³<br>Farbe: Beige <br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br> 2 x Seitenkoffer, 1 x Topcase, Dynamic Paket, Touring Paket, Komfort Paket <br> Niederländische Zulassung. Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
-    "address": "Norbertus Van de Steen<br>Rembrandtlaan 21<br>5121 WK Rijen<br>Niederlande<br>Telefon: +31 6 83164535",
+    "sender": "Michael Höflmair, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
+    "receiver": "Wireshkumar Sagar Biharie, Leerlooierstraat 149H, 3194 AB Hoogvliet, Niederlande",
+    "price": "3.900 €",
+    "description": "Hersteller: Kawasaki<br>Typ: Z 900 <br>Fahrgestelnummer: JKAZR2B17JA003455 <br>Erstzulassung: 05/2018 <br>KM laut Vorbesitzer: 18.023 km <br>Leistung: 92 kW <br>Hubraum: 947 cm³<br>Farbe: Anthrazit <br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br> Niederländische Zulassung.Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Wireshkumar Sagar Biharie<br>Leerlooierstraat 149H<br>3194 AB Hoogvliet<br>Niederlande<br>Telefon: +31 639317644",
     "documents": [
       {
         "name": "Lieferschein",
@@ -25,8 +25,8 @@
         "url": "docs/AGB.pdf"
       }
     ],
-    "orderDate": "03-09-2025",
-    "deliveryDate": "12-09-2025",
+    "orderDate": "08-09-2025",
+    "deliveryDate": "16-09-2025",
     "pickup": {
       "street": "Lessingstraße 11",
       "postal_code": "18209",
@@ -34,9 +34,9 @@
       "country": "Deutschland"
     },
     "delivery": {
-      "street": "Rembrandtlaan 21",
-      "postal_code": "5121 WK",
-      "city": "Rijen",
+      "street": "Leerlooierstraat 149H",
+      "postal_code": "3194 AB",
+      "city": "Hoogvliet",
       "country": "Niederlande"
     }
   }
